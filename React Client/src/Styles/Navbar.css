@@ -1,0 +1,16 @@
+.main-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.151);
+}
+
+.logo {
+    width: 60%;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
